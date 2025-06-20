@@ -1,0 +1,102 @@
+{
+  "type": "FeatureCollection",
+  "generator": "JOSM",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "1",
+        "name": "Koshi Province",
+        "admin_level": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [87.27446555734, 27.21018695866]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "3",
+        "name": "Lumbini Province",
+        "admin_level": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [82.6864942624, 28.05173326498]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "2",
+        "name": "Madhesh Province",
+        "admin_level": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.69196221448, 26.93018483646]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "4",
+        "name": "Bagmati Province",
+        "admin_level": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.53779172031, 27.77761135368]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "7",
+        "name": "Sudur Pashchim Province",
+        "admin_level": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.93928480375, 29.34255830782]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "5",
+        "name": "Gandaki Province",
+        "admin_level": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [84.05186698747, 28.40888712564]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "8",
+        "name": "Kathmandu",
+        "admin_level": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85.31714358601, 27.70663813124]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": "6",
+        "name": "Karnali Province",
+        "admin_level": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [82.28476430753, 29.25532701103]
+      }
+    }
+  ]
+}

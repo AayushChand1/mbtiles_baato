@@ -1,0 +1,454 @@
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "South Pacific Ocean",
+                "type": "Ocean"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -140.85571426392,
+                    -52.15539873721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Sea",
+                "name": "Sea of Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.37960744000,
+                    38.85632947900
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Sea",
+                "name": "Mediterranean Sea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.00000000000,
+                    35.00000000000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "North Pacific Ocean",
+                "type": "Ocean"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    176.13210937500,
+                    32.84326436953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Sea",
+                "name": "Baltic Sea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.00000000000,
+                    55.00000000000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Ocean",
+                "name": "Arctic Ocean"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.18241786377,
+                    73.86220103500
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Continent",
+                "name": "Australia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.00000000000,
+                    -25.33146981813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "South China Sea",
+                "type": "Sea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.00000000000,
+                    10.00000000000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Atlantic Ocean",
+                "type": "Ocean"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -30.00000000000,
+                    0E-11
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Sea",
+                "name": "Arabian Sea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    60.00000000000,
+                    15.00000000000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Continent",
+                "name": "Asia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.70703125000,
+                    38.38185356457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Continent",
+                "name": "Antarctica"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.70590132194,
+                    -79.25724370990
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Ocean",
+                "name": "North Atlantic Ocean"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -41.48472656250,
+                    39.91000590218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "North America",
+                "type": "Continent"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.62500000000,
+                    53.40113643519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "South America",
+                "type": "Continent"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.00000000000,
+                    -20.00000000000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Barents Sea",
+                "type": "Sea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.00000000000,
+                    70.00000000000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Sea",
+                "name": "Caspian Sea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.00000000000,
+                    42.00000000000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Europe",
+                "type": "Continent"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.00000000000,
+                    50.00000000000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Sea",
+                "name": "Caribbean Sea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.00000000000,
+                    15.00000000000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Sea",
+                "name": "Black Sea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.48776570486,
+                    42.95217587650
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Red Sea",
+                "type": "Sea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.33984375000,
+                    19.83473319304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "North Sea",
+                "type": "Sea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0E-11,
+                    55.00000000000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bering Sea",
+                "type": "Sea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -170.00000000000,
+                    60.00000000000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Aegean Sea",
+                "type": "Sea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.00000000000,
+                    35.00000000000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Coral Sea",
+                "type": "Sea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    155.00000000000,
+                    -20.00000000000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Ocean",
+                "name": "South Atlantic Ocean"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -19.68750000000,
+                    -36.77571669170
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Sea",
+                "name": "Weddell Sea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -50.00000000000,
+                    -75.00000000000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Ocean",
+                "name": "Indian Ocean"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.36328125000,
+                    -14.43468021530
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ross Sea",
+                "type": "Sea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.00000000000,
+                    -75.00000000000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Timor Sea",
+                "type": "Sea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    125.00000000000,
+                    -15.00000000000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Africa",
+                "type": "Continent"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.00000000000,
+                    0E-11
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Andaman Sea",
+                "type": "Sea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    95.00000000000,
+                    5.00000000000
+                ]
+            }
+        }
+    ]
+}

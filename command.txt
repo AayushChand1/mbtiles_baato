@@ -1,0 +1,16 @@
+tippecanoe -z8 -Z0 -o baato_boundary_world_land.mbtiles baato_boundary_world_land.geojson
+tippecanoe -z8 -Z0 -o boundaries_country.mbtiles baato_boundary_country.geojson
+tippecanoe -z8 -Z0 -o baato_boundary_world_water.mbtiles baato_boundary_world_water.geojson
+tippecanoe -z8 -Z0 -o boundaries_national_park.mbtiles baato_boundary_national_park.geojson
+
+
+tippecanoe -r1 -z8 -Z0 -o labels_national_park.mbtiles baato_label_national_park.geojson
+tippecanoe -r1 -z8 -Z0 -o labels_province.mbtiles baato_label_province.geojson
+tippecanoe -r1 -z8 -Z0 -o labels_world_capitals.mbtiles baato_label_world_capitals.geojson
+tippecanoe -r1 -z8 -Z0 -o labels_world_country_name.mbtiles baato_label_world_country_name.geojson
+
+
+
+tile-join -o boundaries.mbtiles boundaries_province.mbtiles boundaries_country.mbtiles boundaries_world.mbtiles boundaries_national_park.mbtiles \
+          labels_national_park.mbtiles labels_province.mbtiles labels_world_capitals.mbtiles labels_world_country_name.mbtiles
+
